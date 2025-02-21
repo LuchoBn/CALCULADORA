@@ -1,7 +1,12 @@
 {
   "expo": {
+<<<<<<< HEAD
     "name": "suspicious-yellow-popcorn",
     "slug": "snack-8a9dda75-ea7d-4218-a2f0-c828414a0aa4",
+=======
+    "name": "restless-red-scones",
+    "slug": "snack-10aa0632-f804-4976-90b4-d33e48fcc25b",
+>>>>>>> d5782e4b1587c998e1515999e883e049dc8c5c98
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
